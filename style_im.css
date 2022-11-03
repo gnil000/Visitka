@@ -27,7 +27,7 @@ body {
 
 .main {
   font-family: monospace;
-  position: absolute;
+  position: static;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
